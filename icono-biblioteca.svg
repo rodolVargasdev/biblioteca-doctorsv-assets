@@ -1,0 +1,8 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <title>Biblioteca DoctorSV</title>
+  <rect width="64" height="64" rx="14" fill="#0b4da2"/>
+  <path d="M32 19.5C26.5 15.6 19.5 14.6 11.5 15.6V46.4C19.5 45.5 26.5 46.6 32 50.5Z" fill="#fff"/>
+  <path d="M32 19.5C37.5 15.6 44.5 14.6 52.5 15.6V46.4C44.5 45.5 37.5 46.6 32 50.5Z" fill="#fff"/>
+  <path d="M32 21V49" stroke="#0b4da2" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M40.5 15.2V29.5L44 26.6L47.5 29.5V15.1" fill="#1f9bcf"/>
+</svg>
